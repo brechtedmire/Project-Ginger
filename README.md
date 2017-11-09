@@ -2,4 +2,4 @@
 
 Hi Guys
 
-Starting up my first skill
+Starting up my first (simple) skill
